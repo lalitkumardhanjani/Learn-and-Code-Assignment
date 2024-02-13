@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\lalit.k.dhanjani\\Downloads\\javax.mail.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
